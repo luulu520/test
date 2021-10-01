@@ -23,9 +23,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and https://www.google.com/url?sa=i&url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E9%2599%25B3%25E6%25B0%25B4%25E6%2589%2581&psig=AOvVaw3lTdcgV8BicjQQ0v036cBE&ust=1633180342362000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCmt4OlqfMCFQAAAAAdAAAAABAD
 ```
-xuan.png
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
