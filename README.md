@@ -70,7 +70,7 @@ Licence URI: https://www.os-templates.com/template-terms
   <div id="pageintro" class="hoc clear"> 
     <!-- ################################################################################################ -->
     <article>
-      <h3 class="heading">Suspendisse potenti</h3>
+      <h3 class="heading">璇疑片</h3>
       <p>Arcu mi porttitor est non felis aliquam ullamcorper sed porttitor accumsan arcu maecenas lorem elit tristique quis iaculis at euismod vel arcu donec et lorem.</p>
       <footer>
         <ul class="nospace inline pushright">
@@ -172,7 +172,7 @@ Licence URI: https://www.os-templates.com/template-terms
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
-<div class="bgded overlay" style="background-image:url('images/demo/backgrounds/01.png');">
+<div class="bgded overlay" style="background-image:url('images/demo/backgrounds/xuan.png');">
   <section class="hoc container clear"> 
     <!-- ################################################################################################ -->
     <div class="sectiontitle">
