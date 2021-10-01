@@ -3,7 +3,7 @@
     <head>
     </head>
     <body>
- <TABLE WIDTH="1014" BORDER="1" HEIGHT="400" BGCOLOR=lightgreen align="left" BACKGROUND="xuan.jpg">
+ <TABLE WIDTH="1014" BORDER="1" HEIGHT="400" BGCOLOR=lightgreen align="left" BACKGROUND="xuan.png">
 <TR><TD ALIGN=CENTER></TD></TR>
 </TABLE>
                    
