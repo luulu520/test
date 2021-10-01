@@ -186,4 +186,8 @@ UNIX pipes.
 
 ## License
 
+<<<<<<< HEAD
 ISC
+=======
+ISC
+>>>>>>> 53bf73b502be5bc26e68b856c1377143ceba30da
